@@ -1,4 +1,4 @@
-# Spotify Library Organizer
+# Spotinizer - The Spotify Library Organizer
 
 A Streamlit application that helps you organize your Spotify Liked Songs into genre-based playlists automatically. The app analyzes your liked songs, categorizes them by genre, and creates custom playlists based on these categories.
 
@@ -14,6 +14,9 @@ A Streamlit application that helps you organize your Spotify Liked Songs into ge
 
 - Python 3.9+ or Docker
 - A Spotify Developer Account
+
+## Quick demo
+![demo](.github/demo.gif)
 
 ## Setup
 
